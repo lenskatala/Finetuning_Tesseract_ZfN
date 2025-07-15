@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version18/mets.xsd">
+	<metsHdr CREATEDATE="2025-01-31T10:11:06" LASTMODDATE="2025-01-31T10:11:06"/>
+	<fileSec>
+	<fileGrp USE="PageContent">
+	<file ID="PageContent.1">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="ocr_results/v3_ZfN_1861_011.xml"/></file>
+	<file ID="PageContent.2">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="ocr_results/v2_ZfN_1861_011.xml"/></file>
+	<file ID="PageContent.3">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="ocr_results/v1_ZfN_1861_011.xml"/></file>
+	<file ID="PageContent.4">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="ocr_results/gp_ZfN_1861_011.xml"/></file>
+	<file ID="PageContent.5">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="Z:/Projekt Hoppe/ZfN/GitHub/ZfN_Tesseract/xml/test/ZfN_1861_011.xml"/></file></fileGrp>
+	<fileGrp USE="Binary"/>
+	<fileGrp USE="Master">
+	<file ID="Master.1">
+	<FLocat xlink:type="simple" LOCTYPE="URL" xlink:href="Z:/Projekt Hoppe/ZfN/GitHub/ZfN_Tesseract/xml/test/ZfN_1861_011.jpg"/></file></fileGrp></fileSec>
+	<structMap TYPE="physical">
+	<div TYPE="sequence">
+	<div ID="physical.1" TYPE="page" ORDER="1">
+	<fptr FILEID="Master.1"/>
+	<fptr FILEID="PageContent.1"/></div>
+	<div ID="physical.2" TYPE="page" ORDER="2">
+	<fptr FILEID="Master.1"/>
+	<fptr FILEID="PageContent.2"/></div>
+	<div ID="physical.3" TYPE="page" ORDER="3">
+	<fptr FILEID="Master.1"/>
+	<fptr FILEID="PageContent.3"/></div>
+	<div ID="physical.4" TYPE="page" ORDER="4">
+	<fptr FILEID="Master.1"/>
+	<fptr FILEID="PageContent.4"/></div>
+	<div ID="physical.5" TYPE="page" ORDER="5">
+	<fptr FILEID="Master.1"/>
+	<fptr FILEID="PageContent.5"/></div></div></structMap></mets>
