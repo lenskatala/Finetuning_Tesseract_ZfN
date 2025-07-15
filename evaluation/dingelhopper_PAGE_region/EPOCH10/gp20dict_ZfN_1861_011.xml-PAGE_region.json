@@ -1,0 +1,11 @@
+{
+    "gt": "GT/gp20dict_ZfN_1861_011.xml",
+    "ocr": "results/gp20dict_ZfN_1861_011.xml",
+
+    "cer": 0.3539848435872571,
+    "wer": 0.44336861067327177,
+
+
+    "n_characters": 27843,
+    "n_words": 4441
+}

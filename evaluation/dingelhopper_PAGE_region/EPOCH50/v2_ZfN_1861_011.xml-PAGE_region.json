@@ -1,0 +1,11 @@
+{
+    "gt": "GT/v2_ZfN_1861_011.xml",
+    "ocr": "results/EPOCH50/v2_ZfN_1861_011.xml",
+
+    "cer": 0.3557087957475847,
+    "wer": 0.4573294303084891,
+
+
+    "n_characters": 27843,
+    "n_words": 4441
+}

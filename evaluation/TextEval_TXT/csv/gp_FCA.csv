@@ -1,0 +1,4 @@
+groundTruth,result,charsInGroundTruth,charsInResult,flexCharacterAccuracy
+GT_gp/gp_ZfN_1861_011.txt,results/gp_ZfN_1861_011.txt,"27102","26770","0.932883182052985"
+GT_gp/gp_ZfN_1862_001.txt,results/gp_ZfN_1862_001.txt,"28624","28656","0.9919647847959754"
+GT_gp/gp_ZfN_1865_010.txt,results/gp_ZfN_1865_010.txt,"26827","26995","0.988668132851232"

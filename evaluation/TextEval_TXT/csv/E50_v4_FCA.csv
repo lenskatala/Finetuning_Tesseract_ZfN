@@ -1,0 +1,4 @@
+groundTruth,result,charsInGroundTruth,charsInResult,flexCharacterAccuracy
+GT_v4/v4_ZfN_1861_011.txt,results/EPOCH50/v4_ZfN_1861_011.txt,"27102","26571","0.9296361892111283"
+GT_v4/v4_ZfN_1862_001.txt,results/EPOCH50/v4_ZfN_1862_001.txt,"28624","28682","0.9918949133594187"
+GT_v4/v4_ZfN_1865_010.txt,results/EPOCH50/v4_ZfN_1865_010.txt,"26827","26894","0.992693927759347"

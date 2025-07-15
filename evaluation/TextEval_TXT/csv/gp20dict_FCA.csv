@@ -1,0 +1,4 @@
+groundTruth,result,charsInGroundTruth,charsInResult,flexCharacterAccuracy
+GT_gp20dict/gp20dict_ZfN_1861_011.txt,results/gp20dict_ZfN_1861_011.txt,"27102","26673","0.9299682680245"
+GT_gp20dict/gp20dict_ZfN_1862_001.txt,results/gp20dict_ZfN_1862_001.txt,"28624","28659","0.992593627724986"
+GT_gp20dict/gp20dict_ZfN_1865_010.txt,results/gp20dict_ZfN_1865_010.txt,"26827","26966","0.98937637454803"
