@@ -1,0 +1,348 @@
+{
+    "version": "0.1",
+    "name": "ZfN_virtual-keyboard",
+    "author": "Lena-Marie Hoppe",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ſ",
+            "keyboard_code": 35
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "⸗",
+            "keyboard_code": 95
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "-",
+            "keyboard_code": 45
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "Th."
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "„"
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "‚"
+        },
+        {
+            "row": 0,
+            "column": 6,
+            "character": "—"
+        },
+        {
+            "row": 0,
+            "column": 7,
+            "character": "ꝛc."
+        },
+        {
+            "row": 0,
+            "column": 8,
+            "character": "№."
+        },
+        {
+            "row": 0,
+            "column": 9,
+            "character": "",
+            "keyboard_code": 36
+        },
+        {
+            "row": 0,
+            "column": 10,
+            "character": "Sgr.!!! —"
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "“"
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "₀"
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "⁰"
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "character": "‘"
+        },
+        {
+            "row": 1,
+            "column": 6,
+            "character": "’",
+            "keyboard_code": 39
+        },
+        {
+            "row": 1,
+            "column": 7,
+            "character": "ſch",
+            "keyboard_code": 60
+        },
+        {
+            "row": 1,
+            "column": 9,
+            "character": "*"
+        },
+        {
+            "row": 1,
+            "column": 8,
+            "character": "⁄"
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "character": "¹"
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "character": "²"
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "character": "³"
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "⁴"
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "character": "⁵"
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "character": "⁶"
+        },
+        {
+            "row": 2,
+            "column": 6,
+            "character": "⁷"
+        },
+        {
+            "row": 2,
+            "column": 7,
+            "character": "⁸"
+        },
+        {
+            "row": 2,
+            "column": 8,
+            "character": "⁹"
+        },
+        {
+            "row": 2,
+            "column": 9,
+            "character": "✽"
+        },
+        {
+            "row": 2,
+            "column": 11,
+            "character": "❉"
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "character": "₁"
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "character": "₂"
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "character": "₃"
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "character": "₄"
+        },
+        {
+            "row": 3,
+            "column": 4,
+            "character": "₅"
+        },
+        {
+            "row": 3,
+            "column": 5,
+            "character": "₆"
+        },
+        {
+            "row": 3,
+            "column": 6,
+            "character": "₇"
+        },
+        {
+            "row": 3,
+            "column": 7,
+            "character": "₈"
+        },
+        {
+            "row": 3,
+            "column": 8,
+            "character": "₉"
+        },
+        {
+            "row": 3,
+            "column": 9,
+            "character": "₰"
+        },
+        {
+            "row": 1,
+            "column": 10,
+            "character": "à"
+        },
+        {
+            "row": 2,
+            "column": 10,
+            "character": "é"
+        },
+        {
+            "row": 3,
+            "column": 10,
+            "character": "è"
+        },
+        {
+            "row": 3,
+            "column": 11,
+            "character": "✶"
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "character": "½"
+        },
+        {
+            "row": 4,
+            "column": 1,
+            "character": "⅓"
+        },
+        {
+            "row": 4,
+            "column": 2,
+            "character": "¼"
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "character": "⅕"
+        },
+        {
+            "row": 4,
+            "column": 4,
+            "character": "⅙"
+        },
+        {
+            "row": 4,
+            "column": 5,
+            "character": "⅐"
+        },
+        {
+            "row": 4,
+            "column": 6,
+            "character": "⅛"
+        },
+        {
+            "row": 4,
+            "column": 7,
+            "character": "⅑"
+        },
+        {
+            "row": 4,
+            "column": 8,
+            "character": "⅒"
+        },
+        {
+            "row": 4,
+            "column": 9,
+            "character": "⅟"
+        },
+        {
+            "row": 4,
+            "column": 10,
+            "character": "leer"
+        },
+        {
+            "row": 5,
+            "column": 0,
+            "character": "⅔"
+        },
+        {
+            "row": 5,
+            "column": 1,
+            "character": "⅖"
+        },
+        {
+            "row": 5,
+            "column": 2,
+            "character": "¾"
+        },
+        {
+            "row": 5,
+            "column": 3,
+            "character": "⅗"
+        },
+        {
+            "row": 5,
+            "column": 4,
+            "character": "⅜"
+        },
+        {
+            "row": 5,
+            "column": 5,
+            "character": "⅘"
+        },
+        {
+            "row": 5,
+            "column": 6,
+            "character": "⅚"
+        },
+        {
+            "row": 5,
+            "column": 7,
+            "character": "⅝"
+        },
+        {
+            "row": 5,
+            "column": 8,
+            "character": "⅞"
+        },
+        {
+            "row": 5,
+            "column": 9,
+            "character": "leer"
+        },
+        {
+            "row": 5,
+            "column": 10,
+            "character": "leer"
+        },
+        {
+            "row": 1,
+            "column": 11,
+            "character": "ô"
+        }
+    ]
+}
